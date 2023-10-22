@@ -1,0 +1,8 @@
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#00356B"          # Yale Blue
+backgroundColor = "#FFFFFF"       # White for background
+secondaryBackgroundColor = "#E2E2E2" # A light gray for secondary elements
+textColor = "#00356B"             # Yale Blue for text color
