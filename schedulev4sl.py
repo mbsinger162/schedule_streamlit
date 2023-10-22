@@ -10,7 +10,7 @@ DOCTOR_DATA_FILENAME = "doctor_data_final.csv"
 EXCLUDED_DATES_FILENAME = "excluded_dates.csv"
 OUTPUT_FILENAME = "schedule.csv"
 
-TIME_LIMIT = 60  # Time limit in seconds (e.g., 600 seconds or 10 minutes)
+TIME_LIMIT = 10  # Time limit in seconds (e.g., 600 seconds or 10 minutes)
 ACCEPTABLE_GAP = 0.1  # Acceptable optimality gap as a fraction (e.g., 0.1 for a 10% gap)
 
 class Doctor:
